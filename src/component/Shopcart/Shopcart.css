@@ -1,0 +1,41 @@
+.list{
+    width: 100%;
+    height: auto;
+}
+.list dl{
+    position: relative;
+    height: 2rem;
+}
+.list dl dt{
+    position: absolute;
+    left:.3rem;
+    top:0;
+    width: 2.5rem;
+}
+.list dl dt img{
+    width: 100%;
+    height: auto;
+}
+.list dd{
+    padding-left: 3rem;
+}
+.list dd h2{
+    font-size: .25rem;
+    padding-top: .8rem;
+}
+.btn button{
+    width: .5rem;
+    height: .5rem;
+}
+.btn span{
+
+    padding: 0 .2rem;
+}
+.check{
+    position: absolute;
+    left:.05rem;
+    top:1rem;
+}
+.allcheck{
+    padding-top: 1rem;
+}

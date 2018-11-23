@@ -1,0 +1,365 @@
+[
+    {
+        "trans_title": "全国送商品",
+        "inactive_item": [],
+        "to_addon_order": 1,
+        "active_item": [
+            {
+                "big_stock": 8738,
+                "trans_brief": "",
+                "promote_tag": "https://j-image.missfresh.cn/img_20180222151259397.png",
+                "non_vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 6900,
+                        "name": "",
+                        "second_price": 0,
+                        "name_color": 9868950,
+                        "price_color": 9868950
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 6900,
+                        "name": "",
+                        "second_price": 0,
+                        "name_color": 16730257,
+                        "price_color": 16730257
+                    }
+                },
+                "product_tags": [
+                    {
+                        "name": "红包不可用",
+                        "icon": "https://image.missfresh.cn/category_tag_images/64C7BDFCE3063869F16B409A2851887D.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "price": 6900,
+                "prompt_img_list": [],
+                "supplier": "MISSFRESH",
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "promotion_tag": "不可用红包",
+                "id": "cart_42e2df4f88762f25c7a9fde5ce7bd7f3_p-HBmqjzyl-250ml*24",
+                "sku": "p-HBmqjzyl-250ml*24",
+                "event": {
+                    "limit": 8738,
+                    "active": true,
+                    "event_active": false,
+                    "product_limit": 99999
+                },
+                "stock": 8738,
+                "sp": "MISSFRESH",
+                "can_use_voucher": 0,
+                "images": {
+                    "cart": "https://image.missfresh.cn/7f53e0672688423ea754779a3857bf50.jpg"
+                },
+                "quantity": 1,
+                "vp_prompt_img_list": [],
+                "presale_text": null,
+                "presale_type": 0,
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "unit": "1箱",
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 6900,
+                        "name": "",
+                        "second_price": 0,
+                        "name_color": 9868950,
+                        "price_color": 9868950
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 6900,
+                        "name": "",
+                        "second_price": 0,
+                        "name_color": 16730257,
+                        "price_color": 16730257
+                    }
+                },
+                "subtitle": "【4.15日-4.30日送达】橘汁仅此50000箱",
+                "name": "【预售】摩奇橘汁饮料250ml*24",
+                "market_price": 0,
+                "nationwide": 1,
+                "error_code": "OK",
+                "vip_price": 6900,
+                "can_use_product_voucher": 0,
+                "voucher_tag": "",
+                "real_sku": "p-HBmqjzyl-250ml*24"
+            },
+            {
+                "big_stock": 98444,
+                "trans_brief": "",
+                "promote_tag": "https://j-image.missfresh.cn/img_20180222151259397.png",
+                "non_vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 6900,
+                        "name": "",
+                        "second_price": 0,
+                        "name_color": 9868950,
+                        "price_color": 9868950
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 6900,
+                        "name": "",
+                        "second_price": 0,
+                        "name_color": 16730257,
+                        "price_color": 16730257
+                    }
+                },
+                "product_tags": [
+                    {
+                        "name": "红包不可用",
+                        "icon": "https://image.missfresh.cn/category_tag_images/64C7BDFCE3063869F16B409A2851887D.PNG",
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "price": 6900,
+                "prompt_img_list": [],
+                "supplier": "MISSFRESH",
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "promotion_tag": "不可用红包",
+                "id": "cart_42e2df4f88762f25c7a9fde5ce7bd7f3_p-motz-250ml*24",
+                "sku": "p-motz-250ml*24",
+                "event": {
+                    "limit": 98444,
+                    "active": true,
+                    "event_active": false,
+                    "product_limit": 99999
+                },
+                "stock": 98444,
+                "sp": "MISSFRESH",
+                "can_use_voucher": 0,
+                "images": {
+                    "cart": "https://image.missfresh.cn/95ffedd295954772b57607631e5bef20.jpg"
+                },
+                "quantity": 1,
+                "vp_prompt_img_list": [],
+                "presale_text": null,
+                "presale_type": 0,
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "unit": "1箱",
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 6900,
+                        "name": "",
+                        "second_price": 0,
+                        "name_color": 9868950,
+                        "price_color": 9868950
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 6900,
+                        "name": "",
+                        "second_price": 0,
+                        "name_color": 16730257,
+                        "price_color": 16730257
+                    }
+                },
+                "subtitle": "【4月15日后陆续发货】92年经典桃汁儿最后50000箱",
+                "name": "【预售】摩奇桃汁饮料250ml*24",
+                "market_price": 0,
+                "nationwide": 1,
+                "error_code": "OK",
+                "vip_price": 6900,
+                "can_use_product_voucher": 0,
+                "voucher_tag": "",
+                "real_sku": "p-motz-250ml*24"
+            }
+        ],
+        "trans_type": "all"
+    },
+    {
+        "trans_title": "次日达",
+        "inactive_item": [
+            {
+                "big_stock": 0,
+                "trans_brief": "",
+                "promote_tag": "",
+                "non_vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1090,
+                        "name": "",
+                        "second_price": 545,
+                        "name_color": 9868950,
+                        "price_color": 9868950
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1090,
+                        "name": "",
+                        "second_price": 545,
+                        "name_color": 16730257,
+                        "price_color": 16730257
+                    }
+                },
+                "product_tags": null,
+                "price": 1090,
+                "prompt_img_list": [],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "id": "cart_42e2df4f88762f25c7a9fde5ce7bd7f3_p-hbgxwg-2g",
+                "sku": "p-hbgxwg-2g",
+                "event": {
+                    "limit": 0,
+                    "active": false,
+                    "event_active": false,
+                    "product_limit": 99999
+                },
+                "stock": 0,
+                "sp": null,
+                "can_use_voucher": 1,
+                "images": {
+                    "cart": "https://image.missfresh.cn/6ba6b890250a45a5a499be3f332352e2.jpg"
+                },
+                "quantity": 1,
+                "vp_prompt_img_list": [],
+                "presale_text": null,
+                "presale_type": 0,
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "unit": "2个",
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1090,
+                        "name": "",
+                        "second_price": 545,
+                        "name_color": 9868950,
+                        "price_color": 9868950
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1090,
+                        "name": "",
+                        "second_price": 545,
+                        "name_color": 16730257,
+                        "price_color": 16730257
+                    }
+                },
+                "subtitle": "甜橙和蜜桔生的“甜二代”",
+                "name": "广西沃柑115-150g起*2个",
+                "market_price": 0,
+                "nationwide": 0,
+                "error_code": "LIMIT",
+                "vip_price": 1090,
+                "can_use_product_voucher": 0,
+                "voucher_tag": "",
+                "real_sku": "p-hbgxwg-2g"
+            },
+            {
+                "big_stock": 0,
+                "trans_brief": "",
+                "promote_tag": "https://j-image.missfresh.cn/img_20180222151259397.png",
+                "non_vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1290,
+                        "name": "",
+                        "second_price": 0,
+                        "name_color": 9868950,
+                        "price_color": 9868950
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1290,
+                        "name": "",
+                        "second_price": 0,
+                        "name_color": 16730257,
+                        "price_color": 16730257
+                    }
+                },
+                "product_tags": [
+                    {
+                        "name": "北京风味",
+                        "icon": null,
+                        "color": 13027014,
+                        "type": "property"
+                    }
+                ],
+                "price": 1290,
+                "prompt_img_list": [],
+                "supplier": null,
+                "vip_product": 0,
+                "promote_tag_new": "",
+                "id": "cart_42e2df4f88762f25c7a9fde5ce7bd7f3_p-moqitz-250ml*4",
+                "sku": "p-moqitz-250ml*4",
+                "event": {
+                    "limit": 0,
+                    "active": false,
+                    "event_active": false,
+                    "product_limit": 99999
+                },
+                "stock": 0,
+                "sp": null,
+                "can_use_voucher": 1,
+                "images": {
+                    "cart": "https://image.missfresh.cn/0ccb46ecaf554ce9b2aef5b3e3ac22f5.jpg"
+                },
+                "quantity": 1,
+                "vp_prompt_img_list": [],
+                "presale_text": null,
+                "presale_type": null,
+                "buy_permission": 0,
+                "seckill_limit": 0,
+                "unit": "4盒",
+                "vip_price_pro": {
+                    "price_up": {
+                        "show_type": 0,
+                        "color": 9868950,
+                        "price": 1290,
+                        "name": "",
+                        "second_price": 0,
+                        "name_color": 9868950,
+                        "price_color": 9868950
+                    },
+                    "price_down": {
+                        "show_type": 1,
+                        "color": 16730257,
+                        "price": 1290,
+                        "name": "",
+                        "second_price": 0,
+                        "name_color": 16730257,
+                        "price_color": 16730257
+                    }
+                },
+                "subtitle": "要不要来一口92年的摩奇",
+                "name": "摩奇桃汁饮料250ml*4",
+                "market_price": 0,
+                "nationwide": 0,
+                "error_code": "LIMIT",
+                "vip_price": 1290,
+                "can_use_product_voucher": 0,
+                "voucher_tag": "",
+                "real_sku": "p-moqitz-250ml*4"
+            }
+        ],
+        "to_addon_order": 1,
+        "active_item": [],
+        "trans_type": "old"
+    }
+]
